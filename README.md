@@ -29,4 +29,4 @@ I have been working as a medical registration manager in a physiotherapeutic off
  
  ## My bug reports
  
- [bug reports] (https://docs.google.com/document/d/1GXUoZqbqEsUUfjmGN0cYpfel4tX1x4sc-1pNcPRGjwE/edit?usp=sharing)
+ [bug reports](https://docs.google.com/document/d/1GXUoZqbqEsUUfjmGN0cYpfel4tX1x4sc-1pNcPRGjwE/edit?usp=sharing)
